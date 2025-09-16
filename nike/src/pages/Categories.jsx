@@ -6,19 +6,19 @@ export default function Categories() {
       name: "Running",
       icon: <Footprints className="h-8 w-8 text-white" />,
       image:
-        "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UnVubmluZ3xlbnwwfHwwfHx8MA%3D%3D", // Nike-style running shoes
+        "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UnVubmluZ3xlbnwwfHwwfHx8MA%3D%3D",
     },
     {
       name: "Training",
       icon: <Dumbbell className="h-8 w-8 text-white" />,
       image:
-        "https://media.istockphoto.com/id/1365886686/photo/shot-of-a-woman-working-out-with-a-kettle-bell.webp?a=1&b=1&s=612x612&w=0&k=20&c=RQZBkYSSE2bKw2YlclBywCDKm_FbYqCB13NmhNx05is=", // Training / gym
+        "https://media.istockphoto.com/id/1365886686/photo/shot-of-a-woman-working-out-with-a-kettle-bell.webp?a=1&b=1&s=612x612&w=0&k=20&c=RQZBkYSSE2bKw2YlclBywCDKm_FbYqCB13NmhNx05is=", 
     },
     {
       name: "Lifestyle",
       icon: <Shirt className="h-8 w-8 text-white" />,
       image:
-        "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80", // Casual lifestyle sneakers
+        "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80", 
     },
   ]
 
